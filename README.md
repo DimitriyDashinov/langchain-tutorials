@@ -1,3 +1,12 @@
+# SUMMARY
+
+This repo is a fork from the tutorial offered by [gkamradt](https://github.com/gkamradt) on LangChain.
+
+Additionally I have included in LangChain Explore notebook, which is my own exploration of the LangChain documentation and functionalities.
+
+Below is the original README.md by [gkamradt](https://github.com/gkamradt).
+
+
 # Learn LangChain
 
 Overview, Tutorial, and Examples of [LangChain](https://langchain.readthedocs.io/en/latest/)
